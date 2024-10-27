@@ -45,7 +45,11 @@ This project provides an interactive web application for analyzing WhatsApp chat
    streamlit run app.py
    ```
 
-2. **Upload your WhatsApp chat file** in `.txt` format through the application sidebar to begin analysis.
+2. **Upload your WhatsApp chat file** in `.txt` format through the application sidebar to begin analysis.The way to Convert the WhatsApp Chat into txt file.
+
+
+https://github.com/user-attachments/assets/425c8618-e375-4ae3-9db2-d6dc8f46ba31
+
 
 3. **Explore the Insights**: Use the sidebar options to select user-specific or overall chat analysis and view various visualizations.
 
